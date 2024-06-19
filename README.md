@@ -1,4 +1,4 @@
-# HR-Dashboard using MySQL-PowerBI
+# HR-Dashboard using PowerBI
 
 ![image](https://github.com/kkarthikraja/HR-Dashboard-Sample/assets/18117364/ae12c825-3344-47cd-8881-90ab83042a1d)
 
